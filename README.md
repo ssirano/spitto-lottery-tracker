@@ -1,0 +1,1 @@
+# spitto-lottery-tracker
